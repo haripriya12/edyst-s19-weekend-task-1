@@ -33,6 +33,7 @@
     border-radius: 15px;
     float: left;
     margin-left: 60px;
+    margin-top: 5px;
   }
 .col2 {
     flex: 33.33%;
@@ -42,6 +43,7 @@
     border-radius: 15px;
     float: left;
     margin-left: 60px;
+    margin-top: 5px;
 }
 .col3 {
     flex: 33.33%;
@@ -51,6 +53,7 @@
     border-radius: 15px;
     float: left;
     margin-left: 60px;
+    margin-top: 5px;
 }
 .img1 {
     margin-top: 37px;
@@ -69,10 +72,11 @@
     width: 200px;
     height: 130px;  
     font-size: 10px; 
-    margin-left: 25px;
+    margin-left: 20px;
     margin-top: 10px;   
-    margin-top: 43px; 
+    margin-top: 25px; 
     background-color:  rgb(77, 180, 167);
+    transform: rotate(-15deg);
 } 
 .img2 {
     margin-top: 37px;
@@ -92,11 +96,12 @@
     width: 200px;
     height: 130px;  
     font-size: 10px; 
-    margin-left: 25px;
+    margin-left: 20px;
     margin-top: 10px; 
-    margin-top: 43px;  
+    margin-top: 25px;  
     background-color:  rgb(127, 179, 116);
     width: 200px; 
+    transform: rotate(-15deg);
 } 
 .img3 {
     margin-top: 40px;
@@ -115,9 +120,10 @@
     width: 200px;
     height: 130px;  
     font-size: 10px; 
-    margin-left: 25px;
-    margin-top: 43px;  
+    margin-left: 20px;
+    margin-top: 25px;  
     background-color:  rgb(219, 164, 91);
+    transform: rotate(-15deg);
 } 
 .tag{
     width:70px;
